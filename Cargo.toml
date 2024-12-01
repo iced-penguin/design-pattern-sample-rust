@@ -1,0 +1,10 @@
+[package]
+name = "design-pattern-sample-rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "iterator"
+path = "src/iterator/main.rs"
+
+[dependencies]
