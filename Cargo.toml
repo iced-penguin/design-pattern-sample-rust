@@ -7,4 +7,8 @@ edition = "2021"
 name = "iterator"
 path = "src/iterator/main.rs"
 
+[[bin]]
+name = "adapter"
+path = "src/adapter/main.rs"
+
 [dependencies]
