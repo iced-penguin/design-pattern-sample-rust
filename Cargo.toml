@@ -15,4 +15,8 @@ path = "src/adapter/main.rs"
 name = "template_method"
 path = "src/template_method/main.rs"
 
+[[bin]]
+name = "factory_method"
+path = "src/factory_method/main.rs"
+
 [dependencies]
