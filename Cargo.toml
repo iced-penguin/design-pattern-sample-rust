@@ -19,4 +19,8 @@ path = "src/template_method/main.rs"
 name = "factory_method"
 path = "src/factory_method/main.rs"
 
+[[bin]]
+name = "builder"
+path = "src/builder/main.rs"
+
 [dependencies]
